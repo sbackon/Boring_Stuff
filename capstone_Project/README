@@ -1,0 +1,7 @@
+capstoneProject.py is a Python script which obtains the passwords for
+levels 0-5 of the Over the Wire Bandit Game automatically.
+This is done by having the information for connecting (except for the password)
+and maneuvering to the password location in the banditXX.cfg files which are
+written in the JSON-format.
+Only the password for Level 0 is included in its cfg file. The other passwords 
+are then obtained and written to a file called passwords.txt.
