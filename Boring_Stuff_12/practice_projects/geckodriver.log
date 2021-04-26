@@ -1,0 +1,456 @@
+1619172927722	geckodriver	INFO	Listening on 127.0.0.1:51331
+1619172928687	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilekYaM1Q"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619172933741	Marionette	INFO	Listening on port 36077
+1619172933918	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.trash-mail.com/js/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: , line 0: NetworkError: A network error occurred.
+JavaScript error: , line 0: NetworkError: A network error occurred.
+JavaScript error: , line 0: NetworkError: A network error occurred.
+JavaScript error: , line 0: NetworkError: A network error occurred.
+1619172990788	Marionette	INFO	Stopped listening on port 36077
+1619172993252	geckodriver	INFO	Listening on 127.0.0.1:54597
+1619172993259	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileMSH4Ey"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619172998015	Marionette	INFO	Listening on port 41217
+1619172998128	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.trash-mail.com/js/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1619173040228	Marionette	INFO	Stopped listening on port 41217
+1619173075638	geckodriver	INFO	Listening on 127.0.0.1:57511
+1619173075646	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiledtg6mp"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619173080126	Marionette	INFO	Listening on port 38729
+1619173080218	Marionette	WARN	TLS certificate errors will be ignored for this session
+1619173080448	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://www.trash-mail.com/js/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1619173100439	Marionette	INFO	Stopped listening on port 38729
+1619173527914	geckodriver	INFO	Listening on 127.0.0.1:33437
+1619173527922	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile4WFNfn"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619173532739	Marionette	INFO	Listening on port 34363
+1619173532800	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.trash-mail.com/js/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1619173553365	Marionette	INFO	Stopped listening on port 34363
+1619174120781	geckodriver	INFO	Listening on 127.0.0.1:50787
+1619174120788	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileZpWogB"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619174125317	Marionette	INFO	Listening on port 43771
+1619174125483	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.trash-mail.com/js/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1619174163536	Marionette	INFO	Stopped listening on port 43771
+1619174228988	geckodriver	INFO	Listening on 127.0.0.1:54895
+1619174228996	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilezVGMJh"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619174233805	Marionette	INFO	Listening on port 44895
+1619174233876	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.trash-mail.com/js/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1619174270017	Marionette	INFO	Stopped listening on port 44895
+1619174682877	geckodriver	INFO	Listening on 127.0.0.1:50637
+1619174682885	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileMbn5yk"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619174687542	Marionette	INFO	Listening on port 37899
+1619174687655	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.trash-mail.com/js/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PMessagePort::Msg_PostMessages Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1619174777292	Marionette	INFO	Stopped listening on port 37899
+1619174781071	geckodriver	INFO	Listening on 127.0.0.1:57505
+1619174781078	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile7gpcgQ"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619174785801	Marionette	INFO	Listening on port 43393
+1619174785857	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.trash-mail.com/js/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.trash-mail.com/js/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1619174826836	Marionette	INFO	Stopped listening on port 43393
+1619175398013	geckodriver	INFO	Listening on 127.0.0.1:55345
+1619175398021	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileUTaBZ7"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619175402777	Marionette	INFO	Listening on port 41825
+1619175402920	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.trash-mail.com/js/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.trash-mail.com/js/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1619175502410	geckodriver	INFO	Listening on 127.0.0.1:57967
+1619175502417	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileNvlhBs"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619175507828	Marionette	INFO	Listening on port 38825
+1619175507964	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.trash-mail.com/js/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PMessagePort::Msg_PostMessages Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+JavaScript warning: https://www.trash-mail.com/js/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1619175522704	Marionette	INFO	Stopped listening on port 38825
+1619175526535	Marionette	INFO	Stopped listening on port 41825
+1619175600449	geckodriver	INFO	Listening on 127.0.0.1:45117
+1619175600457	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileH9UKeC"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619175605372	Marionette	INFO	Listening on port 36159
+1619175605470	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.trash-mail.com/js/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.trash-mail.com/js/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1619175690811	Marionette	INFO	Stopped listening on port 36159
+1619175710623	geckodriver	INFO	Listening on 127.0.0.1:60399
+1619175710630	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileJAGiTk"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619175715433	Marionette	INFO	Listening on port 43967
+1619175715510	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.trash-mail.com/js/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.trash-mail.com/js/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1619175751758	Marionette	INFO	Stopped listening on port 43967
+1619175807054	geckodriver	INFO	Listening on 127.0.0.1:32967
+1619175807061	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilePDP5oR"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619175811659	Marionette	INFO	Listening on port 40409
+1619175811741	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.trash-mail.com/js/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.trash-mail.com/js/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+SourceActor threw an exception: Error: Failed to fetch https://www.trash-mail.com/posteingang/#. Code 2153390067.
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:556:16
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 556, column: 16
+console.error: (new Error("Failed to fetch https://www.trash-mail.com/posteingang/#. Code 2153390067.", "resource://devtools/shared/DevToolsUtils.js", 556))
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 556: Error: Failed to fetch https://www.trash-mail.com/posteingang/#. Code 2153390067.
+JavaScript error: resource://devtools/server/actors/highlighters/utils/markup.js, line 141: TypeError: window.document.documentElement is null
+1619175856895	Marionette	INFO	Stopped listening on port 40409
+1619175878402	geckodriver	INFO	Listening on 127.0.0.1:46991
+1619175878410	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileyh932W"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619175883183	Marionette	INFO	Listening on port 43563
+1619175883321	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.trash-mail.com/js/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.trash-mail.com/js/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1619175951424	Marionette	INFO	Stopped listening on port 43563
+1619175954470	geckodriver	INFO	Listening on 127.0.0.1:56713
+1619175954477	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileYl80u2"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619175959229	Marionette	INFO	Listening on port 38405
+1619175959351	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.trash-mail.com/js/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.trash-mail.com/js/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1619176009884	Marionette	INFO	Stopped listening on port 38405
+1619176393562	geckodriver	INFO	Listening on 127.0.0.1:36521
+1619176393568	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileun9twy"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619176398418	Marionette	INFO	Listening on port 40731
+1619176398534	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.trash-mail.com/js/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.trash-mail.com/js/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1619176441777	geckodriver	INFO	Listening on 127.0.0.1:54585
+1619176441785	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile1DkxHg"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619176447553	Marionette	INFO	Listening on port 37215
+1619176447684	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.trash-mail.com/js/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PMessagePort::Msg_PostMessages Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+JavaScript warning: https://www.trash-mail.com/js/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1619176465622	Marionette	INFO	Stopped listening on port 37215
+1619176466411	Marionette	INFO	Stopped listening on port 40731
+1619176531793	geckodriver	INFO	Listening on 127.0.0.1:47983
+1619176531801	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileu8RPwp"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619176536607	Marionette	INFO	Listening on port 38597
+1619176536663	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.trash-mail.com/js/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.trash-mail.com/js/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.trash-mail.com/js/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1619176553422	Marionette	INFO	Stopped listening on port 38597
+1619176574408	geckodriver	INFO	Listening on 127.0.0.1:48211
+1619176574416	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileXuEre9"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619176579221	Marionette	INFO	Listening on port 40635
+1619176579309	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.trash-mail.com/js/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.trash-mail.com/js/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.trash-mail.com/js/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1619176657458	Marionette	INFO	Stopped listening on port 40635
+1619176659354	geckodriver	INFO	Listening on 127.0.0.1:50635
+1619176659362	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile8MaBpF"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619176664341	Marionette	INFO	Listening on port 38663
+1619176664425	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.trash-mail.com/js/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1619176667707	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://www.trash-mail.com/js/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.trash-mail.com/js/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1619176729304	Marionette	INFO	Stopped listening on port 38663
+1619176798752	geckodriver	INFO	Listening on 127.0.0.1:55107
+1619176798759	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileD8dYMX"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619176803570	Marionette	INFO	Listening on port 44593
+1619176803630	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.trash-mail.com/js/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.trash-mail.com/js/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.trash-mail.com/js/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.trash-mail.com/js/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+SourceActor threw an exception: Error: Failed to fetch https://www.trash-mail.com/email-schreiben/. Code 2153390067.
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:556:16
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 556, column: 16
+console.error: (new Error("Failed to fetch https://www.trash-mail.com/email-schreiben/. Code 2153390067.", "resource://devtools/shared/DevToolsUtils.js", 556))
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 556: Error: Failed to fetch https://www.trash-mail.com/email-schreiben/. Code 2153390067.
+JavaScript error: resource://devtools/server/actors/highlighters/utils/markup.js, line 141: TypeError: window.document.documentElement is null
+1619176887215	Marionette	INFO	Stopped listening on port 44593
+1619176975270	geckodriver	INFO	Listening on 127.0.0.1:40253
+1619176975276	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileU6eD7H"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619176979851	Marionette	INFO	Listening on port 39039
+1619176979951	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.trash-mail.com/js/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.trash-mail.com/js/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.trash-mail.com/js/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.trash-mail.com/js/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1619177011119	Marionette	INFO	Stopped listening on port 39039
+1619177122406	geckodriver	INFO	Listening on 127.0.0.1:49597
+1619177122414	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilexbO65Q"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619177127076	Marionette	INFO	Listening on port 42867
+1619177127200	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.trash-mail.com/js/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1619177139685	Marionette	INFO	Stopped listening on port 42867
+1619189545085	geckodriver	INFO	Listening on 127.0.0.1:60803
+1619189546050	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileEHLbT8"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619189555590	Marionette	INFO	Listening on port 46157
+1619189555699	Marionette	WARN	TLS certificate errors will be ignored for this session
+1619189581162	Marionette	INFO	Stopped listening on port 46157
+1619189706180	geckodriver	INFO	Listening on 127.0.0.1:53295
+1619189706187	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileRN3F2F"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619189710891	Marionette	INFO	Listening on port 45447
+1619189710945	Marionette	WARN	TLS certificate errors will be ignored for this session
+1619189711043	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 571: TypeError: this.contentWindow is null
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 227: InvalidStateError: JSWindowActorChild.document getter: Cannot access property 'document' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: , line 0: NotAllowedError: The play method is not allowed by the user agent or the platform in the current context, possibly because the user denied permission.
+JavaScript error: , line 0: NotAllowedError: The play method is not allowed by the user agent or the platform in the current context, possibly because the user denied permission.
+JavaScript error: , line 0: NotAllowedError: The play method is not allowed by the user agent or the platform in the current context, possibly because the user denied permission.
+JavaScript error: , line 0: NotAllowedError: The play method is not allowed by the user agent or the platform in the current context, possibly because the user denied permission.
+JavaScript error: , line 0: NotAllowedError: The play method is not allowed by the user agent or the platform in the current context, possibly because the user denied permission.
+JavaScript error: , line 0: NotAllowedError: The play method is not allowed by the user agent or the platform in the current context, possibly because the user denied permission.
+JavaScript error: , line 0: NotAllowedError: The play method is not allowed by the user agent or the platform in the current context, possibly because the user denied permission.
+JavaScript error: , line 0: NotAllowedError: The play method is not allowed by the user agent or the platform in the current context, possibly because the user denied permission.
+1619189745316	Marionette	INFO	Stopped listening on port 45447
+1619189748904	geckodriver	INFO	Listening on 127.0.0.1:49115
+1619189748912	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileyPgaUu"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619189753539	Marionette	INFO	Listening on port 40615
+1619189753680	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1619189798608	Marionette	INFO	Stopped listening on port 40615
+1619189847632	geckodriver	INFO	Listening on 127.0.0.1:51845
+1619189847639	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileRPRjfx"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619189852309	Marionette	INFO	Listening on port 37637
+1619189852406	Marionette	WARN	TLS certificate errors will be ignored for this session
+1619189872081	Marionette	INFO	Stopped listening on port 37637
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1619190397626	geckodriver	INFO	Listening on 127.0.0.1:32773
+1619190397633	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilew47Pkw"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619190402506	Marionette	INFO	Listening on port 37713
+1619190402640	Marionette	WARN	TLS certificate errors will be ignored for this session
+1619190766596	Marionette	INFO	Stopped listening on port 37713
+1619190768709	geckodriver	INFO	Listening on 127.0.0.1:55057
+1619190768717	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile5bSwMx"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619190773840	Marionette	INFO	Listening on port 42461
+1619190773902	Marionette	WARN	TLS certificate errors will be ignored for this session
+1619190819205	Marionette	INFO	Stopped listening on port 42461
+1619190822580	geckodriver	INFO	Listening on 127.0.0.1:45457
+1619190822587	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileizlhAr"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619190827614	Marionette	INFO	Listening on port 41543
+1619190827665	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://quantcast.mgr.consensu.org/tcfv2/cmp2.js?referer=imgur.com, line 1: GVLError: aborted
+1619190864886	Marionette	INFO	Stopped listening on port 41543
+1619191012029	geckodriver	INFO	Listening on 127.0.0.1:47581
+1619191012036	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileyak4Ly"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619191017278	Marionette	INFO	Listening on port 39317
+1619191017410	Marionette	WARN	TLS certificate errors will be ignored for this session
+1619191084567	Marionette	INFO	Stopped listening on port 39317
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1619191891316	geckodriver	INFO	Listening on 127.0.0.1:52529
+1619191891322	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileAJXkCM"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619191895693	Marionette	INFO	Listening on port 41989
+1619191895800	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 455: TypeError: this.contentWindow is null
+1619191969975	geckodriver	INFO	Listening on 127.0.0.1:34071
+1619191969982	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileH42S6O"
+1619191972139	Marionette	INFO	Stopped listening on port 41989
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619191975224	Marionette	INFO	Listening on port 42977
+1619191975362	Marionette	WARN	TLS certificate errors will be ignored for this session
+1619192019861	Marionette	INFO	Stopped listening on port 42977
+1619192796726	geckodriver	INFO	Listening on 127.0.0.1:47125
+1619192796731	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileu6LSXG"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619192801821	Marionette	INFO	Listening on port 39903
+1619192801932	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+1619192916053	geckodriver	INFO	Listening on 127.0.0.1:54471
+1619192916057	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile8joR5t"
+1619192917652	Marionette	INFO	Stopped listening on port 39903
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619192921469	Marionette	INFO	Listening on port 40041
+1619192921533	Marionette	WARN	TLS certificate errors will be ignored for this session
+1619192999449	geckodriver	INFO	Listening on 127.0.0.1:45351
+1619192999454	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileDB4IJA"
+1619193001083	Marionette	INFO	Stopped listening on port 40041
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619193004698	Marionette	INFO	Listening on port 38255
+1619193004831	Marionette	WARN	TLS certificate errors will be ignored for this session
+1619193048339	Marionette	INFO	Stopped listening on port 38255
+1619193098773	geckodriver	INFO	Listening on 127.0.0.1:45715
+1619193098777	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileaoZgIV"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619193103507	Marionette	INFO	Listening on port 42007
+1619193103663	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 455: TypeError: this.contentWindow is null
+1619193160354	geckodriver	INFO	Listening on 127.0.0.1:42805
+1619193160359	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilexZwSjO"
+1619193160938	Marionette	INFO	Stopped listening on port 42007
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619193165197	Marionette	INFO	Listening on port 46731
+1619193165332	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 227: InvalidStateError: JSWindowActorChild.document getter: Cannot access property 'document' after actor 'PictureInPictureToggle' has been destroyed
+1619193236769	Marionette	INFO	Stopped listening on port 46731
+1619193317193	geckodriver	INFO	Listening on 127.0.0.1:36547
+1619193317198	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilej4grVJ"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619193321836	Marionette	INFO	Listening on port 38125
+1619193321913	Marionette	WARN	TLS certificate errors will be ignored for this session
+1619193637049	Marionette	INFO	Stopped listening on port 38125
+1619193679791	geckodriver	INFO	Listening on 127.0.0.1:52179
+1619193679796	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileZ7eRGz"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619193684427	Marionette	INFO	Listening on port 35101
+1619193684560	Marionette	WARN	TLS certificate errors will be ignored for this session
+1619193967196	Marionette	INFO	Stopped listening on port 35101
+1619193984441	geckodriver	INFO	Listening on 127.0.0.1:42841
+1619193984447	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileU4PIXx"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619193989140	Marionette	INFO	Listening on port 34519
+1619193989230	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+1619194018187	Marionette	INFO	Stopped listening on port 34519
+1619194059768	geckodriver	INFO	Listening on 127.0.0.1:38939
+1619194059773	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile2QcoNj"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619194064365	Marionette	INFO	Listening on port 33637
+1619194064452	Marionette	WARN	TLS certificate errors will be ignored for this session
+1619194111423	geckodriver	INFO	Listening on 127.0.0.1:54575
+1619194112441	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileW3puIb"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619194118510	Marionette	INFO	Listening on port 36771
+1619194118667	Marionette	WARN	TLS certificate errors will be ignored for this session
+1619194197819	Marionette	INFO	Stopped listening on port 36771
+1619194198816	Marionette	INFO	Stopped listening on port 33637
+1619194206771	geckodriver	INFO	Listening on 127.0.0.1:42669
+1619194206776	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileSpIUh4"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619194211339	Marionette	INFO	Listening on port 35841
+1619194211453	Marionette	WARN	TLS certificate errors will be ignored for this session
+1619194443276	Marionette	INFO	Stopped listening on port 35841
+1619194446068	geckodriver	INFO	Listening on 127.0.0.1:50825
+1619194446073	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilexyVxZ0"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619194450626	Marionette	INFO	Listening on port 44937
+1619194450808	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 455: TypeError: this.contentWindow is null
+1619194515975	geckodriver	INFO	Listening on 127.0.0.1:59549
+1619194515980	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileGoeJg4"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: resource:///modules/UrlbarInput.jsm, line 2902: TypeError: event.target.closest is not a function
+1619194521549	Marionette	INFO	Listening on port 41041
+1619194521751	Marionette	WARN	TLS certificate errors will be ignored for this session
+1619194561763	geckodriver	INFO	Listening on 127.0.0.1:56353
+1619194561767	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileZMQvTh"
+1619194563512	Marionette	INFO	Stopped listening on port 41041
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619194567389	Marionette	INFO	Listening on port 42439
+1619194567448	Marionette	WARN	TLS certificate errors will be ignored for this session
+1619194647725	Marionette	INFO	Stopped listening on port 42439
+1619194650529	Marionette	INFO	Stopped listening on port 44937
+1619197674678	geckodriver	INFO	Listening on 127.0.0.1:43645
+1619197675661	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileSnaIQR"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619197685370	Marionette	INFO	Listening on port 39247
+1619197685498	Marionette	WARN	TLS certificate errors will be ignored for this session
+1619197685747	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=, line 1: SyntaxError: illegal character U+0001
+1619197707357	Marionette	INFO	Stopped listening on port 39247
+1619198005525	geckodriver	INFO	Listening on 127.0.0.1:55563
+1619198005532	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileHaxymq"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619198010413	Marionette	INFO	Listening on port 40755
+1619198010525	Marionette	WARN	TLS certificate errors will be ignored for this session
+1619198010736	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1619198060786	geckodriver	INFO	Listening on 127.0.0.1:43141
+1619198060794	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiley348a1"
+1619198061697	Marionette	INFO	Stopped listening on port 40755
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619198065859	Marionette	INFO	Listening on port 33051
+1619198065965	Marionette	WARN	TLS certificate errors will be ignored for this session
+1619198066181	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1619198203378	geckodriver	INFO	Listening on 127.0.0.1:51227
+1619198203388	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileHRSP21"
+1619198204478	Marionette	INFO	Stopped listening on port 33051
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619198208662	Marionette	INFO	Listening on port 40919
+1619198208759	Marionette	WARN	TLS certificate errors will be ignored for this session
+1619198209007	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1619198376798	geckodriver	INFO	Listening on 127.0.0.1:40261
+1619198376806	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilerVJg6Q"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619198381507	Marionette	INFO	Listening on port 45047
+1619198381588	Marionette	WARN	TLS certificate errors will be ignored for this session
+1619198381764	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1619198396333	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript error: data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=, line 1: SyntaxError: illegal character U+0001
+1619198396480	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'loading'.
+JavaScript warning: https://analytics.webgains.io/pvClk.min.js, line 1: WebGL context was lost.
+JavaScript warning: https://analytics.webgains.io/pvClk.min.js, line 1: WebGL context was lost.
+JavaScript warning: https://analytics.webgains.io/pvClk.min.js, line 1: WebGL context was lost.
+JavaScript warning: https://analytics.webgains.io/pvClk.min.js, line 1: WebGL context was lost.
+JavaScript warning: https://analytics.webgains.io/pvClk.min.js, line 1: WebGL context was lost.
+JavaScript warning: https://analytics.webgains.io/pvClk.min.js, line 1: WebGL context was lost.
+JavaScript warning: https://analytics.webgains.io/pvClk.min.js, line 1: WebGL context was lost.
+JavaScript warning: https://analytics.webgains.io/pvClk.min.js, line 1: WebGL context was lost.
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
